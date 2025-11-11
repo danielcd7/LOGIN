@@ -66,3 +66,4 @@ function displayProducts() {
         tableBody.appendChild(row);
     });
 }
+/* x */
